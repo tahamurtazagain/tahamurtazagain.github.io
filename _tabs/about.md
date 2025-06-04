@@ -17,7 +17,7 @@ I’m currently pursuing my **Master's in Computer Science** at Saarland Univers
 - Simulate and research **network congestion control** with tools like NS-3
 
 ### 📄 CV & Resume
-You can view my full **Curriculum Vitae** [here](/cv/).
+👉 [Download my full CV as PDF](https://tahamurtazagain.github.io/assets/cv.pdf)
 
 ### ✍️ Blog & Projects
 Check out my latest [blog posts](/posts/) and [projects](/projects/) on this site.
