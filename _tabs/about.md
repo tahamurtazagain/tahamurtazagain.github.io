@@ -20,7 +20,7 @@ I’m currently pursuing my **Master's in Computer Science** at Saarland Univers
 👉 [Download my full CV as PDF](https://tahamurtazagain.github.io/assets/cv.pdf)
 
 ### ✍️ Blog & Projects
-Check out my latest [blog posts](/posts/) and [projects](/projects/) on this site.
+Blog posts and projects will be published here soon.
 
 ### 📬 Contact Me
 Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/tahamurtazagain) or email me at `gaintaha@gmail.com`.
