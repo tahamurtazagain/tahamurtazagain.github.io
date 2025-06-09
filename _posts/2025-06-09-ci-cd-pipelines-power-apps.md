@@ -2,7 +2,7 @@
 layout: post
 title: "Implementing CI/CD Pipelines for Power Apps Using Azure DevOps"
 date: 2025-06-09 10:00:00 +0200
-categories: [Power Platform, DevOps]
+categories: [Blog, Power Platform, DevOps]
 tags: [Power Apps, Azure DevOps, CI/CD, Power Platform Build Tools, ALM]
 pin: true
 ---
